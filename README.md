@@ -107,12 +107,34 @@ Current Projects:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshitak104&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitak104&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshitak104&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+### 🔥 Contribution Stats
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=akshitak104&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitak104&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+
+### ⚡ Streak Statistics
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=akshitak104&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ffa500&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9"/>
+
+### 📈 Activity Graph
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=akshitak104&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffa500&area=true&hide_border=true"/>
+
+### 🏆 GitHub Trophies
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=akshitak104&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
+
+### 📊 Detailed Stats
+<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=akshitak104&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=akshitak104&repo=your-best-repo&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+
+### ⭐ GitHub Profile Summary
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshitak104&theme=github_dark"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akshitak104&theme=github_dark"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akshitak104&theme=github_dark"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akshitak104&theme=github_dark"/>
+
+### 🎯 Contribution Snake
+<img src="https://raw.githubusercontent.com/akshitak104/akshitak104/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="98%"/>
+
 </div>
 
 ## 🎵 Coding Vibes
