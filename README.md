@@ -105,6 +105,5 @@ const akshit = {
 
 **Let's build something amazing together!** 🚀
 
-![Visitor Count](https://komarev.com/ghpvc/?username=akshitak104&color=brightgreen&style=for-the-badge)
 
 </div>
