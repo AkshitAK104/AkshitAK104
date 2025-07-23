@@ -63,46 +63,8 @@ const akshit = {
 
 </div>
 
-## 🎯 Why C Programming?
 
-```c
-/* C isn't just a programming language - it's the foundation of computing! */
-#include <stdio.h>
 
-int main() {
-    printf("🔹 Understanding memory management at the lowest level\n");
-    printf("🔹 Building high-performance system applications\n");
-    printf("🔹 Contributing to open-source projects (Linux kernel, databases)\n");
-    printf("🔹 Optimizing backend services for maximum efficiency\n");
-    printf("🔹 Learning how modern languages work under the hood\n");
-    
-    return 0; // Because every great developer knows their fundamentals!
-}
-```
-
-**Real Talk**: C programming gives you superpowers! 🦸‍♂️
-- **Memory Control**: Direct hardware interaction for performance-critical applications
-- **System Programming**: Building operating systems, embedded systems, and drivers
-- **Performance Optimization**: Understanding how to write blazingly fast code
-- **Foundation Knowledge**: Every modern language borrows concepts from C
-- **Industry Relevance**: Used in game engines, databases, and high-frequency trading systems
-
-## 🏆 What I'm Working On
-
-```yaml
-Current Projects:
-  - name: "Cloud-Native E-commerce Platform"
-    stack: ["React", "Node.js", "PostgreSQL", "AWS"]
-    status: "🚀 Deploying microservices"
-    
-  - name: "Real-time Chat Application"
-    stack: ["React", "Socket.io", "Redis"]
-    status: "⚡ Optimizing WebSocket performance"
-    
-  - name: "AWS Infrastructure Automation"
-    stack: ["Terraform", "AWS Lambda", "CloudFormation"]
-    status: "🔧 Building CI/CD pipelines"
-```
 
 ## 📊 GitHub Analytics
 
@@ -118,41 +80,20 @@ Current Projects:
 ### 📈 Activity Graph
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=akshitak104&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffa500&area=true&hide_border=true"/>
 
-### 🏆 GitHub Trophies
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=akshitak104&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
-
-### 📊 Detailed Stats
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=akshitak104&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=akshitak104&repo=your-best-repo&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
-
-### ⭐ GitHub Profile Summary
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshitak104&theme=github_dark"/>
 
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akshitak104&theme=github_dark"/>
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akshitak104&theme=github_dark"/>
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akshitak104&theme=github_dark"/>
 
-### 🎯 Contribution Snake
-<img src="https://raw.githubusercontent.com/akshitak104/akshitak104/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="98%"/>
 
 </div>
 
-## 🎵 Coding Vibes
+## 
 
 <div align="center">
 
-```ascii
-    ♪♫♪♫♪♫♪♫♪♫♪♫♪♫♪♫♪♫♪♫♪♫♪♫♪♫
-    ♪                                ♪
-    ♪  while(coding) {               ♪
-    ♪    listen(lofi_hip_hop);       ♪
-    ♪    drink(coffee);              ♪
-    ♪    solve(problems);            ♪
-    ♪    commit("feat: amazing");    ♪
-    ♪  }                             ♪
-    ♪                                ♪
-    ♪♫♪♫♪♫♪♫♪♫♪♫♪♫♪♫♪♫♪♫♪♫♪♫♪♫
-```
+
 
 </div>
 
